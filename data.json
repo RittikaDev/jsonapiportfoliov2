@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "name": "Frame It",
+    "details": "This is an independent photographer's service providing website. A quick overview of this website: The Home Page consists of:- 1. Navbar 2. A static banner 3. Services provided by the photographer himself. 4. A preview of some of his work on 5. A Footer 5. Sub-nested bullet etc 6. All the services takes to a checkout page which is done by dynamic routing This Checkout Page is basic form where there is a button that displays a toast. Also the Signup and Login form is done with the help of Firebase Authentication. Technologies used:- React Routing, React Firebase Hooking, React Toastify ,React bootstrap, Firebase Authrntication, React User Form",
+    "client": "https://github.com/RittikaDev/photography-service",
+    "live": "https://photography-service-3b352.web.app/"
+  },
+  {
+    "id": 2,
+    "name": "Door2Door",
+    "details": "This is an warehouse management website. A quick overview of this website: The Home Page consists of:- 1. Navbar 2. A static banner with a fixed image on th background with an animation 3. Items of the warehouse named Door2Door which is coming from backend through an api call 4. A quick overview of Door2Door 5. A Footer 5. SA query section 6.Footer. Each of the Items takes to a page which is done by dynamic routing, where you can see detailed information of the clicked item. There is also a Manage Inventory page where all the items are kept in tabluar form Technologies used:- React Routing, React Firebase Hooking, React Toastify ,React bootstrap, Firebase Authrntication, AOS Animation, MongoDB, Node, Express, Sweet Alert, React Reveal",
+    "client": "https://github.com/RittikaDev/warehouse-client-side",
+    "server": "https://github.com/RittikaDev/warehouse-server-side",
+    "live": "https://warehouse-management-37597.web.app/"
+  },
+  {
+    "id": 3,
+    "name": "Tech World",
+    "details": "This is an independent photographer's service providing website. A quick overview of this website: The Home Page consists of:- 1. Navbar 2. A static banner 3. Items of the manufacturer parts which is coming from backend through an api call 4. A Bussiness Summary 5. A Footer 5. Sub-nested bullet etc 6. A Delivery steps. Each of the Items takes to a page which is done by dynamic routing, where you can see detailed information of the clicked item. Technologies used:- React Routing, React Firebase Hooking, React Toastify ,React bootstrap, Firebase Authrntication, AOS Animation, MongoDB, Node, Express, Sweet Alert, React Reveal, React User Form",
+    "client": "https://github.com/RittikaDev/manufacturer-client",
+    "server": "https://github.com/RittikaDev/menufacturer-server",
+    "live": "https://parts-manufacturer-b56f0.web.app/"
+  }
+]
